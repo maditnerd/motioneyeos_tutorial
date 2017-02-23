@@ -1,5 +1,11 @@
 Caméra de surveillance avec motioneyeOS
 -----------
+MotionEye est une interface web pour configurer motion (un logiciel pour gérer des caméras) sans avoir à passer par la ligne de commande.    
+Tout se fait directement depuis son ordinateur à l'aide d'un navigateur web.   
+Afin de rendre cela encore plus simple, une version allégé de Linux est fourni par motioneye (motionEyeOS) où tout est prêt à l'usage!   
+De plus le système est intégralement en lecture seul afin de ne pas pouvoir être modifié et d'éviter de corrompre la carte SD   
+
+En cas de problème, il suffit de recopier l'image et de recharger sa configuration.
 
 # Installation
 Pour installer motioneyeOS, 
