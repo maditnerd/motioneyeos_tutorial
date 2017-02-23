@@ -57,3 +57,23 @@ Il y a deux utilisateurs **admin** et **user**
 Vous pouvez maintenant vous connecter à votre caméra avec son nom au lieu de l'ip  
 ![hostname](https://github.com/maditnerd/motioneyeos_tutorial/raw/master/hostname.jpg)
 
+## Réglages caméra
+Par défaut le retour de la caméra est saccadée et la qualité est faible.    
+Heuresement, il est possible de règler le framerate et la résolution.   
+* Aller dans **Video Device** et paramétrer **Video Resolution** / **Frame rate**    
+* Cliquer sur **APPLY**   
+![videodevice](https://github.com/maditnerd/motioneyeos_tutorial/raw/master/camera.jpg)
+
+Le Raspberry Pi ne sera pas redémarré à chaque modification, donc n'hésitez pas à faire des tests
+
+## A faire
+* Stockage sur un disque dur sur le réseau
+* Détection du mouvement (motion detection)
+* Envoi email avec photos (motion notification)
+* Envoi notification android
+* Accès depuis internet
+* Mode Rapide sans enregistrements (Expert Settings)
+* Sauvegarde/Restauration de la configuration
+* WiFi
+
+
