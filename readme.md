@@ -54,7 +54,7 @@ Il y a deux utilisateurs **admin** et **user**
 
 ## Fuseau Horaire  / Nom
 ![timezone](https://github.com/maditnerd/motioneyeos_tutorial/raw/master/timezone-hostname.png)
-* Afin que l'heure soit correcte sur notre caméra, régler le **fuseau horaire** (timeZone)   
+* Afin que l'heure soit correcte sur la caméra, régler le **fuseau horaire** (timeZone)   
 * Donner aussi un nom à votre caméra (**hostname**), vous pourrez ainsi accéder à votre caméra avec son nom au lieu de son IP
 * Appliquer les changements en appuyant sur **APPLY** (bouton en orange)
 * Cliquez sur YES pour redémarrer.    
